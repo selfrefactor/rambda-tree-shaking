@@ -1,11 +1,17 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "build": "maided build",
+    "compare": "maided compare"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   },
   "dependencies": {
+    "fs-extra": "^9.0.1",
     "get-folder-size": "^2.0.1",
-    "maided": "^0.1.3"
+    "maided": "^0.1.3",
+    "rambdax": "^3.7.0"
   }
 }

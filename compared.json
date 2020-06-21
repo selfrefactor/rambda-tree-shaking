@@ -1,0 +1,22 @@
+{
+  "allSizes": [
+    {
+      "label": "base",
+      "mb": "13.47 MB",
+      "size": "13.47"
+    },
+    {
+      "label": "ramda",
+      "mb": "15.80 MB",
+      "size": "15.80"
+    },
+    {
+      "label": "rambda",
+      "mb": "13.77 MB",
+      "size": "13.77"
+    }
+  ],
+  "ramdaVsRambda": 2.03,
+  "ramdaVsBase": 2.33,
+  "rambdaVsBase": 0.3
+}
