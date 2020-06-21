@@ -4,8 +4,12 @@ This repo serves as a proof that currently `Rambda` is more tree-shakable than `
 
 The results are published in `compared.json` file.
 
-## How to run the scripts for yourself 
+## How to run the scripts for yourself
 
 1. Clone this repo
 
-2. and you can run the script for yourself
+2. Run `yarn prepare`
+
+3. Run `yarn compare`
+
+4. Check the change in `compared.json`

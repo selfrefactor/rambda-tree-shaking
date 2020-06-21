@@ -2,6 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
+    "prepare": "maided prepare",
     "build": "maided build",
     "compare": "maided compare"
   },
